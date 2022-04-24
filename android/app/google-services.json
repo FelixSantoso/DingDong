@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72004654808",
+    "project_id": "ding-dong-809e1",
+    "storage_bucket": "ding-dong-809e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72004654808:android:d8dcdd18a337f446d5e9ad",
+        "android_client_info": {
+          "package_name": "com.example.ding_dong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72004654808-dv7j6t5gnks2778aucvk6fbj1mve6a30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRK2F8tqpXzXWG6vhaZSRhc4Rl6YiSTNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72004654808-dv7j6t5gnks2778aucvk6fbj1mve6a30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
